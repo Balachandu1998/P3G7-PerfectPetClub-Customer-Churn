@@ -1,0 +1,17 @@
+.env
+__pycache__/
+.ipynb_checkpoints/
+*.db
+*.csv
+*.parquet
+*.log
+**/.ipynb_checkpoints/
+!Data/customer_churn.parquet
+!Data/PerfectPetClub.db
+!Data/PerfectPetClub_CRM_report.csv
+!Data/PerfectPetClub_server_log.csv
+<<<<<<< HEAD
+!Data/PerfectPetClub_survey.csv
+=======
+!Data/PerfectPetClub_survey.csv
+>>>>>>> 26636b2 (Add customer churn datasets and dashboard)
